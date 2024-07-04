@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtensionMEthod,Statndart delegation,Event", "ExtensionMEthod,Statndart delegation,Event\ExtensionMEthod,Statndart delegation,Event.csproj", "{96CF8317-338A-4DB3-832B-6A73F41446FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96CF8317-338A-4DB3-832B-6A73F41446FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96CF8317-338A-4DB3-832B-6A73F41446FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96CF8317-338A-4DB3-832B-6A73F41446FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96CF8317-338A-4DB3-832B-6A73F41446FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {23AA3F52-E2A4-4D62-98E7-AB711F4D7ECD}
+	EndGlobalSection
+EndGlobal
